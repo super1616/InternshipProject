@@ -1,2 +1,3 @@
 # InternshipProject
-Internship project of Prasunet Campany
+#Prasunetcompany
+Internship project of Prasunet Company
